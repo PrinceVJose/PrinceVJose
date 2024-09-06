@@ -1,12 +1,14 @@
 ## Prince V Jose 👋
+## About me
 - Assistant Professor in Computer Science and Engineering
 - Android Application Developer
 - Research Scholar at Goverment Engineering College Idukki, Kerala
+- My email id is <pvj.prince@gmail.com>
+- College website <https://saintgits.org/saintgits-college-of-engineering/faculty/er-prince-v-jose/>
+
 
 ## Workshop attended
 - Faculty Development Programme - *Instructional Design for Python Programming*
-- My email id is <pvj.prince@gmail.com>
-- College website <https://saintgits.org/saintgits-college-of-engineering/faculty/er-prince-v-jose/>
 
 <!--
 **PrinceVJose/PrinceVJose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,6 @@
-## Hi there 👋
+## Prince V Jose 👋
+### Assistant Professor in Computer Science and Engineering
+### Android Application Developer
 
 <!--
 **PrinceVJose/PrinceVJose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

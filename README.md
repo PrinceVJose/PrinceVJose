@@ -1,4 +1,4 @@
-## Prince V Jose 👋
+## Prince V Jose
 ## About me
 - Assistant Professor in Computer Science and Engineering
 - Android Application Developer

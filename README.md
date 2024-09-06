@@ -7,6 +7,12 @@
 - College website <https://saintgits.org/saintgits-college-of-engineering/faculty/er-prince-v-jose/>
 
 
+## Workshop Handled
+- GEC Idukki
+- SJCET Palai
+- Sreebudha Pattoor
+- CCET ALapuzha
+
 ## Workshop attended
 - Faculty Development Programme - *Instructional Design for Python Programming*
 

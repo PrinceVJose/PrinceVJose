@@ -1,7 +1,7 @@
 ## Prince V Jose 👋
-### Assistant Professor in Computer Science and Engineering
-### Android Application Developer
-### Research Scholar at Goverment Engineering College Idukki, Kerala
+- Assistant Professor in Computer Science and Engineering
+- Android Application Developer
+- Research Scholar at Goverment Engineering College Idukki, Kerala
 
 ## Workshop attended
 - Faculty Development Programme - *Instructional Design for Python Programming*
